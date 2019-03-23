@@ -1,4 +1,5 @@
 # Author $bash
+#                  memoryhackers.org
 #        if you have any questions, you can ask me.
 #   aklınıza takılan ne olursa olsun bana sorabilirsiniz.
 # |||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -97,6 +98,7 @@ def mainlogo():
      ========================================
             <instagram.:@yigitaydn.py>
             ==========================
+                 memoryhackers.org
                 ==================    
      1.) Windows attacking tool
      2.) Android attacking tool 
