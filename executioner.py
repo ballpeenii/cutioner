@@ -97,9 +97,7 @@ def mainlogo():
      ╚═▀▀▀══╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
      ========================================
             <instagram.:@yigitaydn.py>
-            ==========================
-                 memoryhackers.org
-                ==================    
+            ==========================    
      1.) Windows attacking tool
      2.) Android attacking tool 
      3.) Attack listening tool
